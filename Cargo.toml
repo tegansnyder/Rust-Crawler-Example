@@ -1,0 +1,11 @@
+[package]
+name = "crawl"
+version = "0.1.0"
+authors = ["tegansnyder <tsnyder@tegdesign.com>"]
+
+[dependencies]
+hyper = "0.6.15"
+xhtmlchardet = "1.0.0"
+robotparser = "0.2.0"
+select = "0.2.0"
+url = "0.2.37"
